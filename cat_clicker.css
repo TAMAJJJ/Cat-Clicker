@@ -1,0 +1,34 @@
+.header{
+	font-size: 38px;
+	font-family: 'lemon';
+	margin: auto;
+	text-align: center;
+}
+
+.main{
+    display:block;
+    width:100%;
+    margin: 0 auto;
+}
+
+.cat{
+  height:auto;
+  float:left;
+  width: 90%;
+  padding: 10px;
+  display: block;
+  margin: 0 auto;
+}
+
+.cat1,.cat2{
+    width:50%;
+    display:grid;
+    float: left;
+}
+
+.name,.cat1_times,.cat2_times{
+    font-size:28px;
+    font-family:Stencil Std, fantasy;
+    text-align:center;
+    font-weight: 900;
+}
